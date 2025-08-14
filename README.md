@@ -1,7 +1,7 @@
 # FluxOS
 
 <div align="center">
-  <img src="https://github.com/berkkucukk/FluxOS/logo.png" alt="FluxOS Logo" width="400"/>
+  <img src="https://github.com/berkucuk/FluxOS/blob/main/fluxos-logo.png?raw=true" alt="FluxOS Logo" width="400"/>
   
   **Modern, Secure and User-Friendly Arch Linux Based Operating System**
   
